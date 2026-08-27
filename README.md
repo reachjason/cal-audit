@@ -4,14 +4,7 @@ Export every meeting booked through **cal.com** or **Calendly** into a deduplica
 contact list, a per-meeting log, and a summary of how much of your life you spent
 on calls.
 
-```
-================================================================
-  BOOKING REPORT  (cal.com)
-================================================================
-
-  I've had 400 meetings booked on my calendar and spent a
-  total of 24 working days on calls (11,265 minutes, 188 hours).
-```
+<img src="docs/report.png" alt="Booking report: 400 meetings, 24 working days on calls" width="640">
 
 Every booking is, by definition, time with someone outside your own head — so
 this doubles as a lightweight CRM export of everyone who has ever booked you.
@@ -114,3 +107,7 @@ load-bearing, not decoration.
 `*.csv`, `*.ics`, `.env` and `.calkey`. Keep it that way. If you ever paste an
 API key into a terminal, a chat window, or a screenshot, rotate it — treat it as
 burned.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
